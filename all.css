@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(50, 86, 184);
+}
+#calendar {
+  margin: auto;
+  margin-top: 40px;
+  background-color: aliceblue;
+  width: 80%;
+  height: 85vh;
+  border-radius: 5px;
+  border: 1px solid rgba(138, 107, 107, 0.5);
+}
